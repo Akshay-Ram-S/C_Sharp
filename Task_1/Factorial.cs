@@ -1,8 +1,6 @@
 ﻿using System;
-class Factorial
-{
-    static void Main()
-    {
+class Factorial{
+    static void Main(){
         Console.WriteLine("Enter a positive integer to calculate its factorial:");
         int number=Convert.ToInt32(Console.ReadLine());
 
@@ -19,8 +17,7 @@ class Factorial
 
         // Factorial calculation using a loop
         long factorial = 1;
-        for (int i = 1; i <= number; i++)
-        {
+        for (int i = 1; i <= number; i++){
             factorial *= i;
         }
 
