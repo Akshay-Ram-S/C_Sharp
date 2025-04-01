@@ -1,0 +1,4 @@
+C:\Users\aksha\OneDrive\Documents\Presidio_training\C#\Task_2\obj\Debug\net9.0\Task_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aksha\OneDrive\Documents\Presidio_training\C#\Task_2\obj\Debug\net9.0\Task_2.AssemblyInfoInputs.cache
+C:\Users\aksha\OneDrive\Documents\Presidio_training\C#\Task_2\obj\Debug\net9.0\Task_2.AssemblyInfo.cs
+C:\Users\aksha\OneDrive\Documents\Presidio_training\C#\Task_2\obj\Debug\net9.0\Task_2.csproj.CoreCompileInputs.cache
