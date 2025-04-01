@@ -8,7 +8,7 @@ class Person{
     name=_name;
     age=_age;
   }
-  static void Introduce()
+  public void Introduce()
   {
     Console.WriteLine($"Greetings from {name} and I'm {age} years old.");
   }
@@ -16,7 +16,7 @@ class Person{
 
 class Program
 {
-  static void main()
+  static void Main()
   {
     Person person1 = new Person("John",21);
     Person person2 = new Person("Jack",19);
