@@ -1,4 +1,4 @@
-## Generics and Interfaces with a Repository PatternObjective
+## Generics and Interfaces with a Repository Pattern
 
 ## Objective
 
