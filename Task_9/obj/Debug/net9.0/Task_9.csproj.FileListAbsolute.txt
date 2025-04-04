@@ -1,0 +1,14 @@
+C:\Users\aksha\OneDrive\Documents\Presidio_training\C#\Task_9\bin\Debug\net9.0\Task_9.exe
+C:\Users\aksha\OneDrive\Documents\Presidio_training\C#\Task_9\bin\Debug\net9.0\Task_9.deps.json
+C:\Users\aksha\OneDrive\Documents\Presidio_training\C#\Task_9\bin\Debug\net9.0\Task_9.runtimeconfig.json
+C:\Users\aksha\OneDrive\Documents\Presidio_training\C#\Task_9\bin\Debug\net9.0\Task_9.dll
+C:\Users\aksha\OneDrive\Documents\Presidio_training\C#\Task_9\bin\Debug\net9.0\Task_9.pdb
+C:\Users\aksha\OneDrive\Documents\Presidio_training\C#\Task_9\obj\Debug\net9.0\Task_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aksha\OneDrive\Documents\Presidio_training\C#\Task_9\obj\Debug\net9.0\Task_9.AssemblyInfoInputs.cache
+C:\Users\aksha\OneDrive\Documents\Presidio_training\C#\Task_9\obj\Debug\net9.0\Task_9.AssemblyInfo.cs
+C:\Users\aksha\OneDrive\Documents\Presidio_training\C#\Task_9\obj\Debug\net9.0\Task_9.csproj.CoreCompileInputs.cache
+C:\Users\aksha\OneDrive\Documents\Presidio_training\C#\Task_9\obj\Debug\net9.0\Task_9.dll
+C:\Users\aksha\OneDrive\Documents\Presidio_training\C#\Task_9\obj\Debug\net9.0\refint\Task_9.dll
+C:\Users\aksha\OneDrive\Documents\Presidio_training\C#\Task_9\obj\Debug\net9.0\Task_9.pdb
+C:\Users\aksha\OneDrive\Documents\Presidio_training\C#\Task_9\obj\Debug\net9.0\Task_9.genruntimeconfig.cache
+C:\Users\aksha\OneDrive\Documents\Presidio_training\C#\Task_9\obj\Debug\net9.0\ref\Task_9.dll
