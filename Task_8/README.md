@@ -11,3 +11,14 @@ Implement a generic in-memory repository using the repository pattern to perform
 2. Generics: Allows the creation of classes, interfaces, and methods that work with any data type, promoting code reusability and type safety.
    <br>
 3. Interfaces: Define a contract that classes must implement, ensuring consistency in method signatures and behavior across different implementations.
+   <br><br>
+
+Best Practices for repository pattern :
+   <br>
+1. Implement CRUD operations
+   <br>
+2. One repository per object
+   <br>
+3. Use interface
+   <br>
+4. Use generic implementation
