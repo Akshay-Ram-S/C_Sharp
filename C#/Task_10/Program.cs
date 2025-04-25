@@ -15,8 +15,17 @@ builder.Services.AddDbContext<AppDbContext>(opt =>
 
 builder.Services.AddScoped<IBookService, BookService>();
 
+// Exception handling
+builder.Services.AddLogging();
+builder.Services.AddControllers();
+
 var app = builder.Build();
 
+app.UseExceptionHandler("/error");
+app.Map("/error", (HttpContext http) =>
+{
+    return Results.Problem("An unexpected error occurred.");
+});
 
 if (app.Environment.IsDevelopment())
 {
