@@ -9,9 +9,9 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-// DB (InMemory or SQLite)
+// DB In-memory
 builder.Services.AddDbContext<AppDbContext>(opt =>
-    opt.UseInMemoryDatabase("BooksDb")); // Use UseSqlite(...) for SQLite
+    opt.UseInMemoryDatabase("BooksDb")); 
 
 builder.Services.AddScoped<IBookService, BookService>();
 
