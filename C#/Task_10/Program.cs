@@ -17,7 +17,6 @@ builder.Services.AddScoped<IBookService, BookService>();
 
 // Exception handling
 builder.Services.AddLogging();
-builder.Services.AddControllers();
 
 var app = builder.Build();
 
